@@ -1,5 +1,5 @@
 ![Linked-Social-Toolkit-Documentation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Linked-Social-Toolkit-Documentation.png)
-#### Contact info@linkedsocialtoolkit.com for placing your order
+#### Contact info@linkedsocialtoolkit.com for any query
 ## Overview
 With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and faster to search, attract and engage with prospect and start effective sales and market your business.
  
