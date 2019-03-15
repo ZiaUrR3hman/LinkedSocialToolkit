@@ -18,7 +18,6 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 
 #### [Endorse connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
 **Linked Social Toolkit** assists you to endorse all or few skills of all your connections or your targeted connections with one click. 
- 
 #### [Follow connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections)
 **Linked Social Toolkit** facilitates you to send follow notifications to your 1st, 2nd and 3rd degree connections by following them. 
 
