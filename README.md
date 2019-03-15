@@ -11,9 +11,11 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 
 ### Brief introduction
 #### [Messaging](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
-**Linked Social Toolkit** helps you to create campaigns and send messages with images and files as attachments to your targeted connections. You can engage your prospect by sending them personalized birthday wishes, work anniversary greetings, new job greetings, promotion and addition position greetings. 
+**Linked Social Toolkit** helps you to create campaigns and send messages with images and files as attachments to your targeted connections. You can engage your prospect by sending them personalized birthday wishes, work anniversary greetings, new job greetings, promotion and addition position greetings.
+
 #### [Connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
-**Linked Social Toolkit** automates connecting to your prospect through various techniques and offers you to send personalized invitations. You can connect with thousands of active connections within a week from post feeds. You can send invitations to connections having premium membership as well. 
+**Linked Social Toolkit** automates connecting to your prospect through various techniques and offers you to send personalized invitations. You can connect with thousands of active connections within a week from post feeds. You can send invitations to connections having premium membership as well.
+
 #### [Endorse connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
 **Linked Social Toolkit** assists you to endorse all or few skills of all your connections or your targeted connections with one click. 
  
