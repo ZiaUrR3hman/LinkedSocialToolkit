@@ -9,7 +9,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 
 **Linked Social Toolkit** is a browser extension works in all major browsers like Google Chrome, Mozilla Firefox, Opera and Microsoft Edge. It allows you to export or import your settings and configuration for prospect in few clicks. With Cloud based synchronization feature you can import and export your settings to Google Drive, Dropbox and OneDrive.
 
-### Brief introduction
+## Brief introduction
 #### [Messaging](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
 **Linked Social Toolkit** helps you to create campaigns and send messages with images and files as attachments to your targeted connections. You can engage your prospect by sending them personalized birthday wishes, work anniversary greetings, new job greetings, promotion and addition position greetings.
 #### [Connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
@@ -30,7 +30,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 **Linked Social Toolkit** helps you to interact with your network by liking posts and comments. You can sort posts through recent and top filter. You can like posts based on keywords.
 #### [Accept and withdraw invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-accept-received-invitations)
 **Linked Social Toolkit** supports to accept all received invitations as well as withdraw pending sent invitations.
-### Features
+## Features
 #### Messaging
 * [Create campaigns for messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#create-a-campaign)
 * [Send personalized messages to your all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
