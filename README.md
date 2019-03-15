@@ -114,7 +114,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
 #### Accept invites
 * [Accept received invitations with days’ filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-accept-received-invitations)
-#### Cross browser support for
+#### Cross browser support and installation for
 * [Google Chrome -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#google-chrome)
 * [Mozilla Firefox -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#mozilla-firefox)
 * [Opera -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#opera)
