@@ -40,8 +40,10 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send personalized new job, promotion and addition position greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-new-job-wishes-to-your-connections)
 * [Send follow up messages to new connections in real-time](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
 * [Auto respond to messages in real-time](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
-* [Auto reply with personalized message to birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
-* [Auto reply with personalized message to endorsement acknowledgments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Auto reply with personalized message to birthday wishes](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-birthday-wishes)
+* [Auto reply with personalized message to work anniversary greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-work-anniversary-wishes)
+* [Auto reply with personalized message to new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-new-job-wishes)
+* [Auto reply with personalized message to endorsement acknowledgments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-thank-you-for-endorsing-my-xyz-skill-messages)
 * [Send images and files as attachments with your message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#attachments)
 * [Send profile views while sending message to prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#profile-views)
 * [You can schedule your messages, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#delay)
@@ -82,8 +84,10 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send profile views while sending birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections#profile-views)
 * [You can schedule view connections profiles, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles#delay)
 #### Auto responder
-* [Auto respond with personalized message to birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
-* [Auto respond to “Thank you messages” from your connections after endorsing their skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Auto reply with personalized message to birthday wishes](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-birthday-wishes)
+* [Auto reply with personalized message to work anniversary greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-work-anniversary-wishes)
+* [Auto reply with personalized message to new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-new-job-wishes)
+* [Auto respond to “Thank you messages” from your connections after endorsing their skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-thank-you-for-endorsing-my-xyz-skill-messages)
 * [Auto endorse connections skills when they message you with specific text or keyword](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
 * [Auto respond with custom message after finishing endorsement](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
 * [Auto respond to new connections with personalized follow up messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
@@ -98,7 +102,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections#using-boolean-search)
 * [You can schedule for profile information, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections#delay)
 * [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
-* [Get user’s current company’s contact details[emails, phone numbers etc] in Get connections info. and Download sent invite](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections)
+* [Get user’s current company’s contact details](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections#how-to-get-users-current-companys-contact-details)
 #### Remove connections
 * [Clean up your network from unnecessary connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections)
 * [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections#using-boolean-search)
@@ -112,6 +116,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 #### Sent invites
 * [Withdraw sent invitations with days’ filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations)
 * [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
+* [Get user’s current company’s contact details of sent invite](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations#how-to-get-users-current-companys-contact-details)
 #### Accept invites
 * [Accept received invitations with days’ filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-accept-received-invitations)
 #### Cross browser support and installation for
