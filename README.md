@@ -1,6 +1,6 @@
 ![Linked-Social-Toolkit-Documentation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Linked-Social-Toolkit-Documentation.png)
 
-### visit https://linkedsocialtoolkit.com to get free trial
+### Try for free → [https://linkedsocialtoolkit.com](https://linkedsocialtoolkit.com)
 
 ## Overview
 With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and faster to search, attract and engage with prospect and start effective sales and market your business.
